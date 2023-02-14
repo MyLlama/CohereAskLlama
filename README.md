@@ -1,10 +1,6 @@
-## Ask AI Bhagavad Gita
+## Ask AI My Llama
 
-This is a simple web app that uses the [cohereAI](https://cohere.ai) API to answer questions from Bhagavad Gita.
-
-
-
-![App Sample Screenshot](/AppScreenshot.png "App Screenshot")
+This is a simple web app that uses the [cohereAI](https://cohere.ai) API to answer questions from Different Spritual Leaders.
 
 
 
@@ -20,9 +16,9 @@ This is a simple web app that uses the [cohereAI](https://cohere.ai) API to answ
 
 5. Run `pip install -r requirements.txt`
 
-6. setup your cohereAI API key as an environment variable called `COHERE_API_KEY`
+6. setup your cohereAI API key as an environment variable called `COHERE_API_KEY`, or add this is the line 7.
 
-7. Run `streamlit run app.py`
+7. Run `streamlit run app.py`, try sudo command to install streamlit, if its not installed.
 
 8. Open the URL that is displayed in your terminal
 
